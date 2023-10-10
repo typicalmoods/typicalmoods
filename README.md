@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 ## IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=intellijidea,vscode,git,github)](https://skillicons.dev)
 
 # GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=typicalmoods&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
