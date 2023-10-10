@@ -5,7 +5,7 @@
 # Skillset
 
 ## Programming and Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,j)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
